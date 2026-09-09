@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "All-Rounder",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 15000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZeYa3uuChcD2zZTX97y6NMCRX4_6NXyvPMxtpAJSCw&s=10"
+  },
+  {
+    "id": 2,
+    "name": "Rohit Sharma",
+    "country": "India",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 14000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZeYa3uuChcD2zZTX97y6NMCRX4_6NXyvPMxtpAJSCw&s=10"
+  },
+  {
+    "id": 3,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 13000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZeYa3uuChcD2zZTX97y6NMCRX4_6NXyvPMxtpAJSCw&s=10"
+  },
+  {
+    "id": 4,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "battingStyle": "Left-Hand-Bat",
+    "price": 13000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZeYa3uuChcD2zZTX97y6NMCRX4_6NXyvPMxtpAJSCw&s=10"
+  },
+  {
+    "id": 5,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 12000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZeYa3uuChcD2zZTX97y6NMCRX4_6NXyvPMxtpAJSCw&s=10"
+  },
+  {
+    "id": 6,
+    "name": "Jos Buttler",
+    "country": "England",
+    "role": "Wicket-Keeper",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1400,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZeYa3uuChcD2zZTX97y6NMCRX4_6NXyvPMxtpAJSCw&s=10"
+  },
+  {
+    "id": 7,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1200,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZeYa3uuChcD2zZTX97y6NMCRX4_6NXyvPMxtpAJSCw&s=10"
+  },
+  {
+    "id": 8,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZeYa3uuChcD2zZTX97y6NMCRX4_6NXyvPMxtpAJSCw&s=10"
+  },
+  {
+    "id": 9,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "battingStyle": "Left-Hand-Bat",
+    "price": 1000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZeYa3uuChcD2zZTX97y6NMCRX4_6NXyvPMxtpAJSCw&s=10"
+  },
+  {
+    "id": 10,
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "role": "All-Rounder",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 50000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZeYa3uuChcD2zZTX97y6NMCRX4_6NXyvPMxtpAJSCw&s=10"
+  },
+  {
+    "id": 11,
+    "name": "Mohammad Rizwan",
+    "country": "Pakistan",
+    "role": "Wicket-Keeper",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 50000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZeYa3uuChcD2zZTX97y6NMCRX4_6NXyvPMxtpAJSCw&s=10"
+  },
+  {
+    "id": 12,
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "battingStyle": "Left-Hand-Bat",
+    "price": 10000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZeYa3uuChcD2zZTX97y6NMCRX4_6NXyvPMxtpAJSCw&s=10"
+  }
+]
