@@ -1,14 +1,14 @@
-import { useState, type Dispatch, type SetStateAction } from "react";
+import { type Dispatch, type SetStateAction } from "react";
 import Logo from "../assets/logo.png";
 import { HiCurrencyDollar } from "react-icons/hi";
 
 
-export const Nav = ({Coin,setCoin}:{Coin:number,setCoin:Dispatch<SetStateAction<number>>}) => {
+export const Nav = ({Coin}:{Coin:number,setCoin:Dispatch<SetStateAction<number>>}) => {
     
 
     return (
         <nav className="p-3">
-            <div className="container mx-auto flex justify-between">
+            <div className="container px-5 mx-auto flex justify-between">
                 <img src={Logo} alt="Logo" />
                 <div className="flex gap-12">
                     <ul className="flex gap-7 items-center font-semibold text-2xl">

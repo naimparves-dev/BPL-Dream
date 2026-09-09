@@ -2,7 +2,7 @@ import Cricket from "../assets/banner-main.png";
 
 export const Hero = () => {
     return (
-        <section className="container mx-auto mt-7">
+        <section className="container px-5 mx-auto mt-7">
             <div className="relative overflow-hidden rounded-2xl min-h-[395px] flex flex-col items-center justify-center text-center bg-[#111111] px-6">
                 <div className="absolute inset-0 bg-[radial-gradient(circle_at_8%_95%,#667eea_0%,transparent_32%),radial-gradient(circle_at_95%_5%,#d69a9a_0%,transparent_30%)]"></div>
 
