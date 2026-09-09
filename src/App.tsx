@@ -4,6 +4,8 @@ import { Hero } from './Component/Hero'
 import { Nav } from './Component/Nav'
 import Players from './Component/Players/Players'
 import type { Player } from './Type'
+import { NewsLetter } from './Component/NewsLetter'
+import { Footer } from './Component/Footer'
 
 
 const PlayerPromise = async (): Promise<Player[]> => {
@@ -28,6 +30,8 @@ function App() {
       <Suspense>
         <Players PlayerPormise={PlayerPormise} Coin={Coin} setCoin={setCoin}></Players>
       </Suspense>
+      <NewsLetter></NewsLetter>
+      <Footer></Footer>
 
     </>
   )

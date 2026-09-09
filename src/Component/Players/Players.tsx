@@ -21,7 +21,7 @@ const Players = ({ PlayerPormise,Coin,setCoin }: PlayersProps) => {
 
     return (
 
-        <div className="container px-5 mx-auto mt-6">
+        <div className="container w-[1300px] mx-auto mt-6">
             <div className="flex justify-between mb-9">
                 <h2 className="font-bold text-3xl">{ButtonType==="avilable"?"Avilable Player":`Selected Players: ${selectedPlayers.length}`}</h2>
                 <div className="flex">
